@@ -10,10 +10,7 @@
 #
 # You should have received a copy of the GNU General Public License
 # along with this program. If not, see <http://www.gnu.org/licenses/>.
-#
-# This addon was created with the Serpens - Visual Scripting Addon.
-# This code is generated from nodes and is not intended for manual editing.
-# You can find out more about Serpens at <https://blendermarket.com/products/serpens>.
+
 
 
 bl_info = {
@@ -38,7 +35,7 @@ import math
 
 
 ###############   INITALIZE VARIABLES
-###############   SERPENS FUNCTIONS
+###############   FUNCTIONS
 def exec_line(line):
     exec(line)
 
